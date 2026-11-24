@@ -1,0 +1,27 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/SirFlippington/Busy-Bar-Karate.git
+    commit_sha: 7e3c16a96f8c3d476c3e449c58b10c3a94f7a01f
+category: games
+short_description: Fight waves of enemies in a fast two-sided karate game with four difficulties and jumping minibosses.
+description: |
+  Karate is an endless arcade fighter for the front colour display of BUSY Bar.
+  Fight enemies from both sides: pink grabbers, tougher guards and fast strikers.
+  Level up every 100 points and face a jumping miniboss every ten levels.
+  Defeating a boss restores your health.
+
+  Choose Easy, Normal, Hard or INSANE in setup, then press Start/Pause to begin.
+  Tap Start/Pause to punch, or double-tap quickly to kick. Rotate the dial to face
+  left or right, or press it inward to turn around. Press Back to exit.
+  At game over, press Start/Pause to retry or press the dial to return to setup.
+
+  Includes music, attack sounds and separate saved high scores for each difficulty.
+  Runs entirely on BUSY Bar; no account or internet connection is needed to play.
+changelog: |
+  First catalog submission of Karate v1.4.1. Fixes the difficulty menu covering
+  gameplay after Start. Includes four difficulty modes and dial direction controls.
+screenshots:
+  - screenshots/gameplay.png
+back_screenshots:
+  - screenshots/back.png
