@@ -2,7 +2,7 @@ sourcecode:
   type: git
   location:
     origin: https://github.com/SirFlippington/Busy-Bar-Karate.git
-    commit_sha: 8a2e6a20c9c98c89afb7e3cc25b427285a8bcebb
+    commit_sha: bd872eda468309895267f280af6ea53d5bf5a65e
 category: games
 short_description: Fight waves of enemies in a fast two-sided karate game with four difficulties and jumping minibosses.
 description: |
@@ -19,9 +19,9 @@ description: |
   Includes music, attack sounds and separate saved high scores for each difficulty.
   Runs entirely on BUSY Bar; no account or internet connection is needed to play.
 changelog: |
-  Version 1.5.1 redesigns each fighter with distinct silhouettes and costumes, and replaces all previous sprites, backgrounds, music and sound effects
-  with original MIT-licensed assets. Includes reproducible asset-generation source,
-  refreshed emulator screenshots and a new front-screen icon. Gameplay is unchanged.
+  Version 1.5.2 adds original 180 BPM kung-fu-film-inspired chiptune music,
+  separate punch and kick sounds, stronger impacts and bitcrushed synthesized
+  martial-arts yells. Includes distinct original fighter designs and a rooftop arena.
 screenshots:
   - screenshots/gameplay.png
 back_screenshots:
